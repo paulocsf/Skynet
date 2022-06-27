@@ -8,6 +8,7 @@
 </p>
 
 🚀 Tecnologias
+
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 HTML
@@ -16,5 +17,6 @@ CSS
 
 JavaScript
 
-💻 <h1>Projeto</h1>
+💻 Projeto
+
 Skynet é uma aplicação misteriosa que pode (ou não) predizer seu destino 
