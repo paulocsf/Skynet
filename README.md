@@ -16,5 +16,5 @@ CSS
 
 JavaScript
 
-💻 Projeto
-kynet é uma aplicação misteriosa que pode (ou não) predizer seu destino 
+💻 <h1>Projeto</h1>
+Skynet é uma aplicação misteriosa que pode (ou não) predizer seu destino 
