@@ -16,4 +16,5 @@ CSS
 
 JavaScript
 
-Projeto Feito durante a maratona Explorer da RocketSeat
+💻 Projeto
+kynet é uma aplicação misteriosa que pode (ou não) predizer seu destino 
